@@ -9,12 +9,12 @@ import java.util.Date;
 public class Person {
 
    
-      private String name;
-      private String lastName1;
-      private String lastName2;
-      private Date dateBirth;
-      private float height;
-      private String gender; //genero Masculino o Femenino 
+      public String name;
+      public String lastName1;
+      public String lastName2;
+      public Date dateBirth;
+      public float height;
+      public String gender; //genero Masculino o Femenino 
 
     
       
